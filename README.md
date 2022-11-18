@@ -1,6 +1,6 @@
 ### Hi. I am Junior Java Developer <img src=https://www.pngall.com/wp-content/uploads/2016/05/Java-PNG-Image.png width=27px>
 
-                    					<h2>SUMMARY<h2/>
+        SUMMARY:
 
 <ul>
 	<li>2+ years of software development experience in object oriented programming using Java technology with Software Development Life Cycle.</li>
@@ -42,16 +42,5 @@
 <p><strong>Build and Testing Tools:</strong> JUnit, Log4j, ANT, Maven</p>
 
 <p><strong>Tools:</strong> /Protocols: Hibernate Framework, Adobe Photoshop. HTTP, TCP/IP</p>
-
-
-                        </div>
-                    </div>
-                </div>
-
-             
-            </div>
-
-	    </div>
-	</div>
-    </div>
+         
 </section>
