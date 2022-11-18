@@ -44,4 +44,4 @@
 
 <br><br><br>
 
-<img src=https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png width=27px> <img src=https://dwglogo.com/wp-content/uploads/2017/12/1100px_Hibernate_logo_01.png width=27px> <img src=https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png width=27px>
+<img src=https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png width=27px> <img src=https://toppng.com/uploads/preview/hibernate-logo-11609364227r2rk6gphuk.png width=27px>
