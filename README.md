@@ -1,6 +1,6 @@
 ### Hi. I am Junior Java Developer <img src=https://www.pngall.com/wp-content/uploads/2016/05/Java-PNG-Image.png width=27px>
 
-                    SUMMARY:
+                    					<h2>SUMMARY<h2/>
 
 <ul>
 	<li>2+ years of software development experience in object oriented programming using Java technology with Software Development Life Cycle.</li>
