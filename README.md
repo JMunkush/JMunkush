@@ -30,10 +30,6 @@
 
 <p><strong>IDE:</strong> IntelliJ IDEA, NetBeans</p>
 
-<p><strong>Web Services/ Messaging:</strong>REST</p>
-
-<p><strong>Scripting Languages:</strong> HTML, Java Script, CSS</p>
-
 <p><strong>Build and Testing Tools:</strong> JUnit, Log4j, ANT, Maven</p>
 
 
