@@ -40,4 +40,4 @@
 
 <br><br><br>
 
-<img src=https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png width=325px> <img src=https://www.pngall.com/wp-content/uploads/2016/05/Java-PNG-Image.png width=345px> <img src=https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png width=325px>
+<img src=https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png width=320px> <img src=https://www.pngall.com/wp-content/uploads/2016/05/Java-PNG-Image.png width=340px> <img src=https://devkico.itexto.com.br/wp-content/uploads/2014/08/spring-boot-project-logo.png width=320px>
