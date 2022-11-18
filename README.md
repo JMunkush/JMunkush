@@ -38,4 +38,4 @@
 
 <br><br><br>
 
-<img src=https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png width=200px> <img src=https://www.pngall.com/wp-content/uploads/2016/05/Java-PNG-Image.png width=200px>
+<img src=https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png width=200px> <img src=https://www.pngall.com/wp-content/uploads/2016/05/Java-PNG-Image.png width=220px>
