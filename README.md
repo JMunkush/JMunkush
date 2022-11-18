@@ -44,4 +44,4 @@
 
 <br><br><br>
 
-<img align="center" src=https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png width=200px> 
+<img src=https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png width=200px> <img src=https://library.kissclipart.com/20191101/qww/kissclipart-circle-icon-hovytech-icon-java-icon-e5c658d403b27014.png width=200px>
