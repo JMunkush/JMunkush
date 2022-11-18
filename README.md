@@ -1,23 +1,6 @@
 ### Hi. I am Junior Java Developer <img src=https://www.pngall.com/wp-content/uploads/2016/05/Java-PNG-Image.png width=27px>
 
-<section class="view-resume-page view-resume-page-content">
-    <div class="shell">
-	<div class="section-60">
-	    <div class="range">
-
-		    <div class="cell-sm-9">
-                <div class="media">
-                <div class="media-body">
-                   
-                                          
-                                     </div>
-                <div class="media-right">
-                                           
-                                    </div>
-                </div>
-                <div class="single-post-body">
-                <p>
-                    </p><p><u><strong>SUMMARY:</strong></u></p>
+                    SUMMARY:
 
 <ul>
 	<li>2+ years of software development experience in object oriented programming using Java technology with Software Development Life Cycle.</li>
