@@ -1,1 +1,1 @@
-### Hello. I am Junior Java Developer <img src=https://www.pngall.com/wp-content/uploads/2016/05/Java-PNG-Image.png width=25px>
+### Hi. I am Junior Java Developer <img src=https://www.pngall.com/wp-content/uploads/2016/05/Java-PNG-Image.png width=20px>
