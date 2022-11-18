@@ -4,7 +4,7 @@
 
 <ul>
 	<li>2+ years of software development experience in object oriented programming using Java technology with Software Development Life Cycle.</li>
-	<li>Expertise in Core Java with strong understanding and working knowledge in Object Oriented Concepts like Collections, Multithreading, Data Structures, Algorithms, Exception Handling and Polymorphism.</li>
+	<li>Expertise in Core Java with strong understanding and working knowledge in Object Oriented Concepts like Collections, Multithreading, Data Structures, Algorithms, Exception Handling and Polymorphism Java 8, Stream API.</li>
 	<li>Extensive experience in application development using Java, J2EE, JSP, Servlets, EJB2.0/3.0, JavaBeans, JDBC, JUnit, Log4J, XML, JavaScript, HTML.</li>
 	<li>Experience with multiple Servers like IBM WebSphere, WebLogic, Sun Glass fish, Jboss and Apache Tomcat.</li>
 	<li>Extensive working experience on Apache Struts, JSF and Spring MVC presentation tier frameworks and ORM Technology Hibernate 3.0</li>
