@@ -41,3 +41,6 @@
 <p><strong>Tools:</strong> /Protocols: Hibernate Framework, Adobe Photoshop. HTTP, TCP/IP</p>
          
 </section>
+
+
+<img src=https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png width=27px>
