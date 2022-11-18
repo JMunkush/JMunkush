@@ -38,10 +38,10 @@
 
 <p><strong>Build and Testing Tools:</strong> JUnit, Log4j, ANT, Maven</p>
 
-<p><strong>Tools:</strong> /Protocols: Hibernate Framework, Adobe Photoshop. HTTP, TCP/IP</p>
+
          
 </section>
 
 <br><br><br>
 
-<img src=https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png width=200px> 
+<img align="center" src=https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png width=200px> 
