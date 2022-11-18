@@ -44,4 +44,4 @@
 
 <br><br><br>
 
-<img src=https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png width=40px> <img src=https://toppng.com/uploads/preview/hibernate-logo-11609364227r2rk6gphuk.png width=40px> <img src=https://www.filepicker.io/api/file/MJuW3ujQyCBHdJU6rhKf width=40px>
+<img src=https://miro.medium.com/max/500/1*AbiX4LwtSNozoyfypcKvEg.png width=200px> 
