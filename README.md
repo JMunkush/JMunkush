@@ -1,4 +1,5 @@
-### Hi. I am Junior Java Developer 
+### Hi <img src=https://camo.githubusercontent.com/e8e7b06ecf583bc%E2%80%A6a434c467a6361737252346961377a2f67697068792e676966 width=30px>
+I am Junior Java Developer 
 
 <br/>
 
