@@ -1,6 +1,5 @@
 ### Hi. I am Junior Java Developer and I am 19 years old
 
-<li>Location: Nukus</li>  
 
 
 <br/>
