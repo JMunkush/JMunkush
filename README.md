@@ -16,17 +16,15 @@
 
 <p><u><strong>TECHNICAL SKILLS:</strong></u></p>
 
-<p><strong>Languages:</strong> Java, XML, SQL</p>
+<p><strong>Languages:</strong> Java, JavaScript, HTML, CSS, NOSQL, SQL, XML</p>
 
-<p><strong>J2EE Technologies:</strong> Servlets, JSP, Swing, Spring, XML, JDBC</p>
+<p><strong>Java EE Technologies:</strong> Servlets, JSP, Swing, Spring, XML, JDBC</p>
 
 <p><strong>Frameworks:</strong> Spring Framework, Spring Boot, Hibernate, JPA</p>
 
 <p><strong>Operating Systems:</strong>Windows</p>
 
 <p><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB, Oracle</p>
-
-<p><strong>Languages:</strong> Java, JavaScript, HTML, CSS, NOSQL, SQL</p>
 
 <p><strong>Web Servers:</strong>Tomcat</p>
 
