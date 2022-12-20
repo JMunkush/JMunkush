@@ -24,11 +24,11 @@
 
 <p><strong>Frameworks:</strong> Spring Framework, Spring Boot, Hibernate, JPA, Security</p>
 
-<p><strong>Operating Systems:</strong>Windows, Linux</p>
+<p><strong>Operating Systems:</strong> Windows, Linux</p>
 
 <p><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB, Oracle</p>
 
-<p><strong>Web Servers:</strong>Tomcat</p>
+<p><strong>Web Servers:</strong> Tomcat</p>
 
 <p><strong>IDE:</strong> IntelliJ IDEA, VS Code, NetBeans</p>
 
