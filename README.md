@@ -9,7 +9,7 @@
 	<li>Expertise in Core Java with strong understanding and working knowledge in Object Oriented Concepts like Collections, Multithreading, Data Structures, Algorithms, Exception Handling, Polymorphism Java 8 and Stream API.</li>
 	<li>Extensive experience in application development using Java, Spring App, JSP, Servlets, JDBC, JUnit, Log4J, XML, JavaScript, HTML, CSS.</li>
 	<li>Extensive development experience on different IDE’s like IntelliJ IDEA, NetBeans, VS Code</li>
-	<li>Good exposure to building Web Services, RESTful API and Web App.</li>
+	<li>Good exposure to building Web Services, RESTful API, MicroServices and Web App.</li>
 	<li>Good work experience in writing SQL queries with major Relational Databases.</li>
 	<li>Good knowledge of database connectivity ( JDBC ) for databases like Oracle, MySql, PostgreSQL and MongoDB</li>
 	<li>Strong team player, highly motivated self-starter with Excellent Communication, Presentation and Problem Solving Skills and committed to learning new technologies.</li>
