@@ -22,9 +22,9 @@
 
 <p><strong>Java EE Technologies:</strong> Servlets, JSP, Swing, Spring, XML, JDBC</p>
 
-<p><strong>Frameworks:</strong> Spring Framework, Spring Boot, Hibernate, JPA</p>
+<p><strong>Frameworks:</strong> Spring Framework, Spring Boot, Hibernate, JPA, Security</p>
 
-<p><strong>Operating Systems:</strong>Windows</p>
+<p><strong>Operating Systems:</strong>Windows, Linux</p>
 
 <p><strong>Databases:</strong> MySQL, PostgreSQL, MongoDB, Oracle</p>
 
@@ -33,6 +33,11 @@
 <p><strong>IDE:</strong> IntelliJ IDEA, NetBeans</p>
 
 <p><strong>Build and Testing Tools:</strong> JUnit, Log4j, ANT, Maven</p>
+
+<p><strong>DevOps:</strong>Docker, Kubernetes</p>
+
+<p><strong>Messaging:</strong>RabbitMQ, WebSocket</p>
+
 
 
          
