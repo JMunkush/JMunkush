@@ -34,9 +34,9 @@
 
 <p><strong>Build and Testing Tools:</strong> JUnit, Log4j, ANT, Maven</p>
 
-<p><strong>DevOps:</strong>Docker, Kubernetes</p>
+<p><strong>DevOps:</strong> Docker, Kubernetes</p>
 
-<p><strong>Messaging:</strong>RabbitMQ, WebSocket</p>
+<p><strong>Messaging:</strong> RabbitMQ, WebSocket</p>
 
 
 
