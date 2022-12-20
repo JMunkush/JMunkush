@@ -6,12 +6,12 @@
 
 <ul>
 	<li>2+ years of software development experience in object oriented programming using Java technology with Software Development Life Cycle.</li>
-	<li>Expertise in Core Java with strong understanding and working knowledge in Object Oriented Concepts like Collections, Multithreading, Data Structures, Algorithms, Exception Handling and Polymorphism Java 8, Stream API.</li>
-	<li>Extensive experience in application development using Java, Java EE, JSP, Servlets, JDBC, JUnit, Log4J, XML, JavaScript, HTML, CSS.</li>
-	<li>Extensive development experience on different IDE’s like IntelliJ IDEA, NetBeans</li>
-	<li>Good exposure to building Web Services, RESTful API.</li>
+	<li>Expertise in Core Java with strong understanding and working knowledge in Object Oriented Concepts like Collections, Multithreading, Data Structures, Algorithms, Exception Handling, Polymorphism Java 8 and Stream API.</li>
+	<li>Extensive experience in application development using Java, Spring App, JSP, Servlets, JDBC, JUnit, Log4J, XML, JavaScript, HTML, CSS.</li>
+	<li>Extensive development experience on different IDE’s like IntelliJ IDEA, NetBeans, VS Code</li>
+	<li>Good exposure to building Web Services, RESTful API and Web App.</li>
 	<li>Good work experience in writing SQL queries with major Relational Databases.</li>
-	<li>Good knowledge of database connectivity ( JDBC ) for databases like Oracle, MySql, PostgreSQL</li>
+	<li>Good knowledge of database connectivity ( JDBC ) for databases like Oracle, MySql, PostgreSQL and MongoDB</li>
 	<li>Strong team player, highly motivated self-starter with Excellent Communication, Presentation and Problem Solving Skills and committed to learning new technologies.</li>
 	<li>Ability to quickly adapt to new environments and learn new technologies.</li>
 </ul>
@@ -30,7 +30,7 @@
 
 <p><strong>Web Servers:</strong>Tomcat</p>
 
-<p><strong>IDE:</strong> IntelliJ IDEA, NetBeans</p>
+<p><strong>IDE:</strong> IntelliJ IDEA, VS Code, NetBeans</p>
 
 <p><strong>Build and Testing Tools:</strong> JUnit, Log4j, ANT, Maven</p>
 
